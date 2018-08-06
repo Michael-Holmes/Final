@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_trips">Trips</string>
+    <string name="strAddTripEnter">Enter Trip Name</string>
+    <string name="strAddTripCity">Search for a City</string>
+    <string name="strAddTripSearch">Search</string>
+    <string name="strAddTripAdd">Add Trip</string>
+</resources>
